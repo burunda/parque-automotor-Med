@@ -1,4 +1,4 @@
-# Análisis de la Migración y Renovación del Parque Automotor en Colombia e Integración de la Red Ferroviaria como Alternativa Sostenible para la Transición Energética
+# Análisis de la Migración y Renovación del Parque Automotor en aras de la transición energética en Medellín y el Área Metropolitana
 
 # Descripción:
 Este proyecto tiene como objetivo analizar la migración del parque automotor en Colombia hacia tecnologías más eficientes, principalmente vehículos eléctricos, híbridos y de bajas emisiones, y su integración con la red ferroviaria como una alternativa sostenible de transporte. El proyecto evaluará el impacto de estas acciones en la transición energética del país y optimiza el uso de recursos a través del análisis de datos. A partir de la recopilación de información sobre consumo energético, emisiones de CO₂, uso de vehículos eléctricos, y la red ferroviaria, se desarrollarán visualizaciones y análisis que permitan explorar distintos escenarios de transporte sostenible.
