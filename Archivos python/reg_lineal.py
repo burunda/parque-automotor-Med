@@ -9,6 +9,7 @@ import statsmodels.api as sm # paquete de modelos estadisticos potentes
 
 # Cargar el dataset
 data = pd.read_csv(r'Datasets\Parque Automotor\CRECIMIENTO_DEL_PARQUE_AUTOMOTOR_RUNT2.0_20241011.csv', header=0)
+data_e = pd.read_csv(r'Datasets\Parque Automotor\Numero_de_Veh_culos_El_ctricos_-_Hibridos_20241020.csv', header=0)
 
 # Definir el umbral para considerar categorías "pequeñas"
 umbral = 600
